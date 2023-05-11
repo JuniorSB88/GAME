@@ -1,0 +1,35 @@
+body
+{
+    background-color: black;
+}
+
+#box
+{
+    background-color: aqua;
+    width: 1905px;
+    height: 955px;
+}
+
+#top
+{
+    background-color: rgb(46, 46, 46);
+    width: 1905px;
+    height: 75px;
+    float: left;
+}
+
+#menu
+{
+    background-color: rgb(26, 107, 145);
+    width: 1905px;
+    height: 75px;
+    float: left;
+}
+
+#login-section
+{
+    background-color: rgb(46, 46, 46);
+    width: 1905px;
+    height: 805px;
+    float: left;
+}
